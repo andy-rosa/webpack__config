@@ -1,4 +1,9 @@
-@import '~normalize.css';
-@import 'stylesheet/fonts.scss';
-@import 'stylesheet/var.scss';
-@import 'stylesheet/style.scss';
+// @import '~normalize.css';
+// @import 'stylesheet/fonts.scss';
+// @import 'stylesheet/var.scss';
+// @import 'stylesheet/style.scss';
+@bk: bisque;
+
+body {
+    background-color: @bk;
+}
